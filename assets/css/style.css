@@ -1,5 +1,6 @@
 html{
     background-color: gainsboro;
+    background-image: url(../images/concrete-texture/concrete-texture.png);
     min-height: 100%;
 }
 
